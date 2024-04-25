@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Apr 2024 22:25:53 at https://kitpro.site/tutturu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kitpro.site/tutturu/ -O1 "D:\New folder\kavi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:26:31	Error: 	"Method Not Allowed" (405) at link https://kitpro.site/tutturu/xmlrpc.php (from https://kitpro.site/tutturu/)
+22:27:20	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=10
+22:27:20	Warning: 	File has moved from https://kitpro.site/tutturu/?p=10 to https://kitpro.site/tutturu/template-kit/home/
+22:27:20	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=378
+22:27:20	Warning: 	File has moved from https://kitpro.site/tutturu/?p=378 to https://kitpro.site/tutturu/template-kit/about/
+22:27:20	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=438
+22:27:20	Warning: 	File has moved from https://kitpro.site/tutturu/?p=438 to https://kitpro.site/tutturu/template-kit/team/
+22:27:20	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=427
+22:27:20	Warning: 	File has moved from https://kitpro.site/tutturu/?p=427 to https://kitpro.site/tutturu/template-kit/course/
+22:27:20	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=443
+22:27:20	Warning: 	File has moved from https://kitpro.site/tutturu/?p=443 to https://kitpro.site/tutturu/template-kit/pricing/
+22:27:20	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=449
+22:27:20	Warning: 	File has moved from https://kitpro.site/tutturu/?p=449 to https://kitpro.site/tutturu/template-kit/faq/
+22:27:21	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=455
+22:27:21	Warning: 	File has moved from https://kitpro.site/tutturu/?p=455 to https://kitpro.site/tutturu/template-kit/testimonial/
+22:27:21	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=461
+22:27:21	Warning: 	File has moved from https://kitpro.site/tutturu/?p=461 to https://kitpro.site/tutturu/template-kit/blog/
+22:27:25	Warning: 	Moved Permanently for https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/
+22:27:25	Warning: 	File has moved from https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ to https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/
+22:27:27	Warning: 	Moved Permanently for https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/
+22:27:27	Warning: 	File has moved from https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ to https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/
+22:27:28	Warning: 	Moved Permanently for https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/
+22:27:28	Warning: 	File has moved from https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/ to https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/
+22:27:29	Warning: 	Moved Permanently for https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/ https://kitpro.site/tutturu/2022/02/10/passionately-involved-in-education/
+22:27:29	Warning: 	File has moved from https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/ https://kitpro.site/tutturu/2022/02/10/passionately-involved-in-education/ to https://kitpro.site/tutturu/2022/02/10/passionately-involved-in-education/
+22:27:31	Warning: 	Moved Permanently for https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/ https://kitpro.site/tutturu/2022/02/10/passionately-involved-in-education/ https://kitpro.site/tutturu/2022/02/10/a-great-place-for-learning/
+22:27:31	Warning: 	File has moved from https://kitpro.site/tutturu/2022/02/10/for-high-education/ https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/ https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/ https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/ https://kitpro.site/tutturu/2022/02/10/passionately-involved-in-education/ https://kitpro.site/tutturu/2022/02/10/a-great-place-for-learning/ to https://kitpro.site/tutturu/2022/02/10/a-great-place-for-learning/
+22:27:31	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=466
+22:27:31	Warning: 	File has moved from https://kitpro.site/tutturu/?p=466 to https://kitpro.site/tutturu/template-kit/404/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=433
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=433 to https://kitpro.site/tutturu/template-kit/contact-us/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=642
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=642 to https://kitpro.site/tutturu/2022/02/10/for-high-education/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=634
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=634 to https://kitpro.site/tutturu/2022/02/10/educating-you-well-is-our-aim/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=630
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=630 to https://kitpro.site/tutturu/2022/02/10/you-are-a-priority-for-us/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=627
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=627 to https://kitpro.site/tutturu/2022/02/10/distance-education-with-fun-learning/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=625
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=625 to https://kitpro.site/tutturu/2022/02/10/passionately-involved-in-education/
+22:27:35	Warning: 	Moved Permanently for https://kitpro.site/tutturu/?p=615
+22:27:35	Warning: 	File has moved from https://kitpro.site/tutturu/?p=615 to https://kitpro.site/tutturu/2022/02/10/a-great-place-for-learning/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 49 seconds : 241 links scanned, 218 files written (19031975 bytes overall) [11500564 bytes received at 105509 bytes/sec], 10543595 bytes transferred using HTTP compression in 137 files, ratio 27%, 15.0 requests per connection
+(1 errors, 42 warnings, 0 messages)
